@@ -6,4 +6,6 @@ This project is mostly for source files auto test by using humanoid DNA Tech. wi
 还有我同学张凡介绍一个大叔，2019小年还在我这里蹭顿饭。我教他整个java的eclipse使用方法，准备开始编码，那大叔就不来了。这斯人有事没事就问我代码怎么来的。我说 每天花10分钟写50行，10天就500行，100天就5000行，1年就15000行，10年就15万行，那斯人听罢疯狂的吸了口烟就跑了。
 
 
+全部public，避嫌
+
 罗瑶光
